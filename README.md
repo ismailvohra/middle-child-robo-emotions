@@ -1,5 +1,6 @@
 # Middle Child: Delivery Robot Emptions Game
 ## Built under participation in Global Game Jam x Turku Game Jam
+Play The Game Here => [https://ismailvohra.github.io/middle-child-robo-emotions/](https://ismailvohra.github.io/middle-child-robo-emotions/)
 
 Welcome to the chaotic world of "Middle Child," a game that hilariously reflects our neglectful treatment of city delivery robots. In this tap-centric adventure, dive into the plight of these lonely, misunderstood bots who navigate the urban jungle facing snowstorms, human obstacles, and the occasional misplaced trash bin.
 
