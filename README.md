@@ -19,3 +19,7 @@ Middle Child goes beyond the surface level of tap games. It prompts players to q
 In adherence to the Global Game Jam theme, "Make Me Laugh," Middle Child aims to tickle your funny bone with its absurd scenarios, quirky characters, and the ultimate question - can you help a robot find gratitude, even if it's buried deep within their binary hearts?
 
 Embark on a laughter-filled journey through the chaotic cityscape, challenge your reflexes, and ponder the depths of human-robot interactions in the whimsical world of Middle Child!
+
+
+## Build
+Run the game by importing source project in Middle Child directory in Unity
