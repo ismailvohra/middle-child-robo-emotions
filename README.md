@@ -1,4 +1,4 @@
-# Middle Child: Delivery Robot Emptions Game
+# Middle Child: Delivery Robot Emotions Game
 ## Built under participation in Global Game Jam x Turku Game Jam
 Play The Game Here => [https://ismailvohra.github.io/middle-child-robo-emotions/](https://ismailvohra.github.io/middle-child-robo-emotions/)
 
