@@ -22,4 +22,4 @@ Embark on a laughter-filled journey through the chaotic cityscape, challenge you
 
 
 ## Build
-Run the game by importing source project in Middle Child directory in Unity
+Build the game by importing source project in Middle Child directory in Unity
