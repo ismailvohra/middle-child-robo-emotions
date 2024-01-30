@@ -32,3 +32,6 @@ Build the game by importing source project in Middle Child directory in Unity
 * WebGL
 * Canva
 * Github
+
+## Maintainer(s)
+[Ismail Vohra](https://github.com/ismailvohra)
