@@ -1,7 +1,4 @@
 # Middle Child: Delivery Robot Emotions Game
-## Built during participation in Global Game Jam x Turku Game Jam 2024
-
-![MiddleChildGameScreenshot](https://github.com/ismailvohra/middle-child-robo-emotions/assets/34173058/fc62f2dd-4770-4037-89c2-c5d15c04f99f)
 Play The Game Here => [https://ismailvohra.github.io/middle-child-robo-emotions/](https://ismailvohra.github.io/middle-child-robo-emotions/)
 
 Welcome to the chaotic world of "Middle Child," a game that hilariously reflects our neglectful treatment of city delivery robots. In this tap-centric adventure, dive into the plight of these lonely, misunderstood bots who navigate the urban jungle facing snowstorms, human obstacles, and the occasional misplaced trash bin.
@@ -22,6 +19,8 @@ In adherence to the Global Game Jam theme, "Make Me Laugh," Middle Child aims to
 
 Embark on a laughter-filled journey through the chaotic cityscape, challenge your reflexes, and ponder the depths of human-robot interactions in the whimsical world of Middle Child!
 
+## Built during participation in Global Game Jam x Turku Game Jam 2024
+![MiddleChildGameScreenshot](https://github.com/ismailvohra/middle-child-robo-emotions/assets/34173058/fc62f2dd-4770-4037-89c2-c5d15c04f99f)
 
 ## Build
 Build the game by importing source project in Middle Child directory in Unity
